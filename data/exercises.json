@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "Push-ups",
+    "bodyPart": "chest",
+    "targetMuscles": ["pectorals", "triceps", "deltoids"],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": [
+      "Start in a plank position with your hands slightly wider than shoulder-width apart",
+      "Lower your body until your chest nearly touches the floor",
+      "Push yourself back up to the starting position",
+      "Keep your core tight throughout the movement"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/06/Push-Up-Plus.gif",
+    "category": "strength"
+  },
+  {
+    "id": 2,
+    "name": "Pull-ups",
+    "bodyPart": "back",
+    "targetMuscles": ["latissimus dorsi", "biceps", "rhomboids"],
+    "equipment": "pull-up bar",
+    "difficulty": "intermediate",
+    "instructions": [
+      "Hang from a pull-up bar with palms facing away",
+      "Pull your body up until your chin clears the bar",
+      "Lower yourself back down with control",
+      "Keep your core engaged throughout"
+    ],
+    "gifUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2022/11/pull-up.gif",
+    "category": "strength"
+  },
+  {
+    "id": 3,
+    "name": "Squats",
+    "bodyPart": "legs",
+    "targetMuscles": ["quadriceps", "glutes", "hamstrings"],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": [
+      "Stand with feet shoulder-width apart",
+      "Lower your body as if sitting in a chair",
+      "Keep your chest up and knees behind your toes",
+      "Return to standing position"
+    ],
+    "gifUrl": "https://burnfit.io/wp-content/uploads/2023/11/PAUSE_SQT.gif",
+    "category": "strength"
+  },
+  {
+    "id": 4,
+    "name": "Bicep Curls",
+    "bodyPart": "arms",
+    "targetMuscles": ["biceps"],
+    "equipment": "dumbbells",
+    "difficulty": "beginner",
+    "instructions": [
+      "Stand with dumbbells in each hand, arms at your sides",
+      "Curl the weights up toward your shoulders",
+      "Keep your elbows stationary",
+      "Lower the weights back down slowly"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Curl.gif",
+    "category": "strength"
+  },
+  {
+    "id": 5,
+    "name": "Shoulder Press",
+    "bodyPart": "shoulders",
+    "targetMuscles": ["deltoids", "triceps"],
+    "equipment": "dumbbells",
+    "difficulty": "intermediate",
+    "instructions": [
+      "Stand with dumbbells at shoulder height",
+      "Press the weights straight overhead",
+      "Keep your core tight",
+      "Lower the weights back to shoulder height"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Shoulder-Press.gif",
+    "category": "strength"
+  },
+  {
+    "id": 6,
+    "name": "Plank",
+    "bodyPart": "core",
+    "targetMuscles": ["rectus abdominis", "transverse abdominis", "obliques"],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": [
+      "Start in a push-up position",
+      "Lower onto your forearms",
+      "Keep your body straight from head to heels",
+      "Hold the position"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2025/07/body-saw-plank.gif",
+    "category": "core"
+  },
+  {
+    "id": 7,
+    "name": "Deadlifts",
+    "bodyPart": "back",
+    "targetMuscles": ["erector spinae", "glutes", "hamstrings"],
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "instructions": [
+      "Stand with feet hip-width apart, bar over mid-foot",
+      "Bend at hips and knees to grab the bar",
+      "Lift by extending hips and knees",
+      "Keep the bar close to your body"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Deadlift.gif",
+    "category": "strength"
+  },
+  {
+    "id": 8,
+    "name": "Bench Press",
+    "bodyPart": "chest",
+    "targetMuscles": ["pectorals", "triceps", "deltoids"],
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "instructions": [
+      "Lie on bench with feet flat on floor",
+      "Grip bar slightly wider than shoulder-width",
+      "Lower bar to chest",
+      "Press bar back up to starting position"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Bench-Press.gif",
+    "category": "strength"
+  },
+  {
+    "id": 9,
+    "name": "Lunges",
+    "bodyPart": "legs",
+    "targetMuscles": ["quadriceps", "glutes", "hamstrings"],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": [
+      "Stand with feet hip-width apart",
+      "Step forward with one leg",
+      "Lower your body until both knees are at 90 degrees",
+      "Push back to starting position"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2023/07/bodyweight-lunges.gif",
+    "category": "strength"
+  },
+  {
+    "id": 10,
+    "name": "Tricep Dips",
+    "bodyPart": "arms",
+    "targetMuscles": ["triceps", "deltoids"],
+    "equipment": "chair/bench",
+    "difficulty": "beginner",
+    "instructions": [
+      "Sit on edge of chair with hands gripping the edge",
+      "Slide forward so your weight is on your hands",
+      "Lower your body by bending your elbows",
+      "Push back up to starting position"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Triceps-Dips.gif",
+    "category": "strength"
+  },
+  {
+    "id": 11,
+    "name": "Lateral Raises",
+    "bodyPart": "shoulders",
+    "targetMuscles": ["deltoids"],
+    "equipment": "dumbbells",
+    "difficulty": "beginner",
+    "instructions": [
+      "Stand with dumbbells at your sides",
+      "Raise arms out to the sides until parallel to floor",
+      "Keep a slight bend in your elbows",
+      "Lower weights back down slowly"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Lateral-Raise.gif",
+    "category": "strength"
+  },
+  {
+    "id": 12,
+    "name": "Russian Twists",
+    "bodyPart": "core",
+    "targetMuscles": ["obliques", "rectus abdominis"],
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "instructions": [
+      "Sit with knees bent and feet off the ground",
+      "Lean back slightly to engage core",
+      "Rotate your torso from side to side",
+      "Keep your chest up throughout"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Russian-Twist.gif",
+    "category": "core"
+  },
+  {
+    "id": 13,
+    "name": "Calf Raises",
+    "bodyPart": "legs",
+    "targetMuscles": ["gastrocnemius", "soleus"],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": [
+      "Stand with feet hip-width apart",
+      "Rise up onto your toes",
+      "Hold for a moment at the top",
+      "Lower back down slowly"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/06/Single-Leg-Calf-Raises.gif",
+    "category": "strength"
+  },
+  {
+    "id": 14,
+    "name": "Mountain Climbers",
+    "bodyPart": "core",
+    "targetMuscles": ["rectus abdominis", "hip flexors"],
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "instructions": [
+      "Start in a plank position",
+      "Bring one knee toward your chest",
+      "Quickly switch legs",
+      "Keep your core tight throughout"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2022/07/Cross-Body-Mountain-Climber.gif",
+    "category": "cardio"
+  },
+  {
+    "id": 15,
+    "name": "Burpees",
+    "bodyPart": "full body",
+    "targetMuscles": ["full body"],
+    "equipment": "bodyweight",
+    "difficulty": "advanced",
+    "instructions": [
+      "Start standing, then squat down",
+      "Place hands on ground and jump feet back to plank",
+      "Do a push-up, then jump feet back to squat",
+      "Jump up with arms overhead"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/02/burpees.gif",
+    "category": "cardio"
+  },
+  {
+    "id": 16,
+    "name": "Leg Press",
+    "bodyPart": "legs",
+    "targetMuscles": ["quadriceps", "glutes"],
+    "equipment": "leg press machine",
+    "difficulty": "intermediate",
+    "instructions": [
+      "Sit in leg press machine with feet on platform",
+      "Lower the weight by bending your knees",
+      "Press the weight back up",
+      "Don't lock your knees at the top"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2015/11/Leg-Press.gif",
+    "category": "strength"
+  },
+  {
+    "id": 17,
+    "name": "Chest Flyes",
+    "bodyPart": "chest",
+    "targetMuscles": ["pectorals"],
+    "equipment": "dumbbells",
+    "difficulty": "intermediate",
+    "instructions": [
+      "Lie on bench with dumbbells in each hand",
+      "Start with arms extended over chest",
+      "Lower weights in an arc motion",
+      "Bring weights back together over chest"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Fly.gif",
+    "category": "strength"
+  },
+  {
+    "id": 18,
+    "name": "Rowing",
+    "bodyPart": "back",
+    "targetMuscles": ["latissimus dorsi", "rhomboids", "biceps"],
+    "equipment": "cable machine",
+    "difficulty": "intermediate",
+    "instructions": [
+      "Sit at rowing machine with knees slightly bent",
+      "Pull the handle toward your lower chest",
+      "Squeeze your shoulder blades together",
+      "Return to starting position with control"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Seated-Cable-Row.gif",
+    "category": "strength"
+  },
+  {
+    "id": 19,
+    "name": "Jumping Jacks",
+    "bodyPart": "full body",
+    "targetMuscles": ["full body"],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": [
+      "Stand with feet together and arms at sides",
+      "Jump while spreading legs shoulder-width apart",
+      "Simultaneously raise arms overhead",
+      "Jump back to starting position"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/05/Jumping-jack.gif",
+    "category": "cardio"
+  },
+  {
+    "id": 20,
+    "name": "Face Pulls",
+    "bodyPart": "shoulders",
+    "targetMuscles": ["rear deltoids", "rhomboids"],
+    "equipment": "cable machine",
+    "difficulty": "intermediate",
+    "instructions": [
+      "Set cable at face height with rope attachment",
+      "Pull rope toward your face",
+      "Separate hands at the end of the movement",
+      "Return to starting position slowly"
+    ],
+    "gifUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Face-Pull.gif",
+    "category": "strength"
+  }
+]
